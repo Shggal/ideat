@@ -3,8 +3,7 @@ public class su {
         System.out.println("No.1");
         s2();
         s3();
-
-
+        System.out.println("F");
     }
 
   public static void  s2(){
